@@ -8,7 +8,7 @@ body{
 	height: 100vh;
 	-webkit-background-size: cover;
 	background-size: cover;
-    background-image:url(images/qq.jpg);
+    background-image:url(qq.jpg);
 	background-position: center center;
 	position: relative;
 }
@@ -50,7 +50,7 @@ img{
         margin-top: -20px;
         font-size: 70px;
         color: rgba(225,225,225,.1);
-        background-image: url(images/picture.jpg);
+        background-image: url(picture.jpg);
         background-repeat: repeat-x;
         -webkit-background-clip: text;
         animation: animate 15s linear infinite;
@@ -82,7 +82,7 @@ img{
     .text-container h3{
         font-size: 50px;
         color: rgba(225,225,225,.1);
-        background-image: url(images/picture.jpg);
+        background-image: url(picture.jpg);
         background-repeat: repeat-x;
         -webkit-background-clip: text;
         animation: animate 15s linear infinite;
