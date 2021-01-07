@@ -18,6 +18,6 @@
     <textborder: 4px solid green;>
      <br><br>
   <br><br>
-	<center><a href="1.1.singNform.html"> Click here to visit Website</a></center>
+	<center><a href="1.2 Misamis Occidental.html"> Click here to visit Website</a></center>
 		</div>
 	</body>
